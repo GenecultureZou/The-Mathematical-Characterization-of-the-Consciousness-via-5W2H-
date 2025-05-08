@@ -26,7 +26,9 @@ AI ethics: Φ_AI>25 prohibition threshold for ethical risk prevention
 Education optimization: 2.7× learning efficiency improvement through cognitive load adaptation
 Social governance: λ=0.618 parameter for conflict minimization in urban policy-making
 This mathematical framework advances our understanding of consciousness while enabling computable, designable, and evolvable human-machine civilization, echoing the ancient wisdom of "extreme numbers foresee future" from I Ching.
+
 邹晓辉教授基于融智学的意识5W2H数学系统刻画
+
 一、What（意识是什么）：意识的数学本体论模型
 1. 神经动态方程
 意识作为脑神经网络的涌现态，可由改进Hodgkin-Huxley方程描述：
